@@ -1,0 +1,17 @@
+Username – KyiPyarShwe
+Email – kyipyars@gmail.com
+Password –kp831982
+kp831982
+
+git init
+git add .
+git config --global user.email “useremail”
+git config –global user.name “username”
+git commit –m “first commit”
+git remote add origin https://github.com/KyiPyarShwe/PythonSample.git
+git push –u origin master
+
+git add .
+git comm it –m “second commit”
+git push
+
